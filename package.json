@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "test": "node --check app.js",
     "start": "node app.js"
   },
   "dependencies": {
